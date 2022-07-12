@@ -1,0 +1,110 @@
+img {
+   width: 230px; 
+}
+
+.container { 
+    width: 230px;
+    height: auto;
+}
+
+.containerBody {
+    width: 230px;
+    height: 100px;
+    display: flex;
+}
+
+
+.containerBody1 {
+    width: 115px;
+}
+
+
+.containerBody2 {
+    width: 115px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+
+.productName {
+    margin-top: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.productBtn {
+    color: rgb(0, 191, 255);
+    background-color: white;
+    border: 1px solid rgb(0, 191, 255);
+    border-radius: 3px;
+    font-size: 12px;
+    height: 23px;
+    width: 60px;
+}
+
+hr {
+    width: 210px;
+    height: 1px;
+}
+
+
+.footerText {
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+
+.footerButton { 
+    border: none;
+    font-size: 10px;
+    height: 20px;
+    width: 120px;
+    margin-left: 13px;
+    margin-top: 15px;
+    background-color: rgb(4, 177, 4);
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+.disableButton {
+    border: none;
+    font-size: 10px;
+    height: 20px;
+    width: 80px;
+    margin-left: 13px;
+    margin-top: 15px;
+    background-color: rgb(4, 177, 4);
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+.deleteButton {
+    height: 10px;
+    font-size: 8px;
+    border: 0px;
+    color: red;
+    margin-left: 10px;
+}
+
+
+
+.window {
+    width: 100px;
+    height: 30px;
+    font-size: 8px;
+    margin-left: 62px;
+    margin-top: -25px;
+    background-color: white;
+  }
+  .btnWindow {
+    width: 1px;
+    height: 1px;
+    color: black;
+    border: 0px;
+    margin-left: 23px;
+    margin-top: -100px;
+  }
